@@ -3,7 +3,7 @@
 Welcome to my GitHub — a space where data meets code and ideas turn into impactful projects. I'm a passionate Data Scientist and AI enthusiast who loves digging deep into data, building intelligent systems, and exploring how technology can solve real-world problems.
 
 ## 🚀 About Me
-- 🔭 Currently working on advanced retail demand forecasting and NLP-powered chatbots
+- 🔭 Currently working on a full stack web application
 - 🌱 Continuously learning cutting-edge AI/ML techniques and expanding my software engineering skills
 - 👯 Open to collaborating on data science, machine learning, and open source AI projects
 - 💬 Ask me about data analysis, deep learning, and building scalable ML pipelines
